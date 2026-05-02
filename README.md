@@ -75,10 +75,12 @@ Monthly revenue peaks at £1.1M–£1.2M in October/November each year,
 driven by retailers stocking up ahead of Christmas. Supply chain and 
 procurement planning should account for this 2x demand spike.
 
-### 5. Cohort retention stabilises at 15–25% from Month 3 onwards
-While 8 in 10 new customers never return after their first purchase, 
-those who do become consistent repeat buyers. Improving Month-1 
-retention is the highest-leverage growth opportunity.
+### 5. Cohort retention stabilises at ~21% from Month 3 onwards
+Average Month-1 retention is 21.2% — meaning roughly 8 in 10 new 
+customers never return after their first purchase. However retention 
+stabilises at 21.6% by Month 3 and holds steady, indicating that 
+customers who return once tend to become consistent repeat buyers. 
+Improving Month-1 retention is the highest-leverage growth opportunity.
 
 ---
 
